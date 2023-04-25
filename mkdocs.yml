@@ -33,6 +33,11 @@ nav:
   - 'Red':
       - '📻 Ubitiqui': 'red/ubitiqui.md'
       - '🕸️ Mikrotik': 'red/mikrotik.md'
+  
+  - 'Open Media Vault'
+      - '🐱‍💻 Instalación': 'omv/instalacion.md'
+      - '⚙️ Configuración': 'omv/configuracion.md'
+      
   - 'Otros':
       - '🔊 Sonido en Host con HA': 'otros/sonidoHostSupervised.md'
 
