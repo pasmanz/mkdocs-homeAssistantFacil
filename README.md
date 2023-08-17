@@ -7,16 +7,14 @@ La web es estática y está realizada con [MkDocs](https://www.mkdocs.org/) con 
 repositorio se reflejará en la web.
 
 ## Si no encuentras un contenido o la información es incorrecta
-Si no encuentras un tema, es incorrecto y te gustaría que apareciera en la wiki, puedes hacer dos cosas:
-- Ponernos un [ISSUE](https://github.com/ConsolaViejuna/mkdocs-homeAssistantFacil/issues)
-- Hacer un [PULL REQUEST](https://github.com/ConsolaViejuna/mkdocs-homeAssistantFacil/pulls) con lo que quieres añadir 
+Si no encuentras un tema, es incorrecto y te gustaría que apareciera en la wiki, nos lo puedes comunicar vía Telegram
 
 ## Como desplegar el proyecto en local
 
 1. Clona tu repositorio en local:
 
 ``` 
-git clone https://github.com/ConsolaViejuna/mkdocs-homeAssistantFacil.git 
+git clone https://github.com/pasmanz/mkdocs-homeAssistantFacil.git
 ```
 
 2. Instala Python, Pip y Mkdocs en tu equipo, [guía](https://www.mkdocs.org/user-guide/installation/#installing-python)
@@ -31,4 +29,4 @@ mkdocs serve
 ```
 6. Accede desde un navegador a la siguiente URL: http://localhost:8000/
 
-
+Recuerda que si usas windows, quizás tengas que poner antes el comando `python -m`

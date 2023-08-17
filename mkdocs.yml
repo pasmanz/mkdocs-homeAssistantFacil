@@ -34,9 +34,10 @@ nav:
       - '📻 Ubitiqui': 'red/ubitiqui.md'
       - '🕸️ Mikrotik': 'red/mikrotik.md'
   
-  - 'Open Media Vault'
+  - 'Open Media Vault':
       - '🐱‍💻 Instalación': 'omv/instalacion.md'
       - '⚙️ Configuración': 'omv/configuracion.md'
+      - '🐱‍💻 Rsync en Windows': 'omv/rsyncWindows.md'
       
   - 'Otros':
       - '🔊 Sonido en Host con HA': 'otros/sonidoHostSupervised.md'
